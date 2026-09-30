@@ -1,0 +1,15 @@
+DUPLICATE NUMBER REMOVER - PROBLEM STATEMENT
+
+Create a Python program that accepts multiple numbers from the user and removes duplicate numbers while keeping the first occurrence of each number.
+
+Requirements:
+1. Accept multiple numbers.
+2. Identify duplicate values.
+3. Remove repeated values.
+4. Preserve the original order.
+5. Display the original and unique lists.
+6. Display the number of duplicates removed.
+7. Handle invalid input.
+
+Goal:
+Practice Python lists, loops, functions, conditions, user input, and exception handling.
